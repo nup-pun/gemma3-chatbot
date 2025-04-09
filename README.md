@@ -18,6 +18,7 @@ This is an offline Android chatbot app built with [Google's Gemma 3B model (INT4
 ```bash
 git clone https://github.com/nup-pun/gemma3-chatbot.git
 cd gemma3-chatbot
+```
 
 2. **Download the model from kaggle**
 Download link: https://www.kaggle.com/models/google/gemma-3/tfLite
